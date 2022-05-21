@@ -1,7 +1,5 @@
 import React from 'react'
 import { AppBar, Toolbar, Box} from '@material-ui/core'
-//import { NavLink } from 'react-router-dom';
-
 
 export function NavBar () {
     return (
